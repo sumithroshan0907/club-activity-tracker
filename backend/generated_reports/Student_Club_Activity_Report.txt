@@ -1,0 +1,42 @@
+================================================================================
+                    STUDENT CLUB ACTIVITY TRACKER - REPORT                     
+              Academic Project Supporting SDG 4: Quality Education             
+================================================================================
+Generated Date & Time: 2026-10-15 11:13:44
+File Storage Path     : /Users/suriyaam/Documents/oopsj/backend/generated_reports/Student_Club_Activity_Report.txt
+
+--------------------------------------------------------------------------------
+1. OVERALL SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Clubs Registered   : 5
+Total Students Enrolled  : 8
+Total Participations     : 16
+
+--------------------------------------------------------------------------------
+2. REGISTERED CLUBS
+--------------------------------------------------------------------------------
+ID    | Club Name                    | Category     | Faculty Coordinator      
+--------------------------------------------------------------------------------
+1     | CodeCrafters Club            | Technical    | Dr. Ramesh Kumar         
+2     | Literary & Debate Society    | Literary     | Prof. Meera Sharma       
+3     | Robotics & IoT Club          | Technical    | Dr. Anand Verma          
+4     | Fine Arts & Cultural Club    | Cultural     | Prof. Priya Nair         
+5     | Sports & Fitness Club        | Sports       | Coach Vikram Singh       
+
+--------------------------------------------------------------------------------
+3. STUDENT PARTICIPATION LEADERBOARD
+--------------------------------------------------------------------------------
+Rank   | Student Name         | Reg. Number    | Dept     | Activities   | Badge          
+--------------------------------------------------------------------------------
+1      | Priya Sharma         | 2023CSE0101    | CSE      | 4            | Gold Champion  
+2      | Arun Patel           | 2023IT0204     | IT       | 3            | Silver Star    
+3      | Divya Nair           | 2024ECE0312    | ECE      | 3            | Bronze Achiever
+4      | Rahul Verma          | 2022MECH0405   | MECH     | 2            | Active Contributor
+5      | Sneha Reddy          | 2023CSE0155    | CSE      | 2            | Active Contributor
+6      | Karthik Raja         | 2024IT0289     | IT       | 1            | Active Contributor
+7      | Ananya Gupta         | 2025CSE0042    | CSE      | 1            | Active Contributor
+8      | Manoj Kumar          | 2022ECE0199    | ECE      | 0            | Member         
+
+================================================================================
+                       END OF ACADEMIC ACTIVITY REPORT                          
+================================================================================
